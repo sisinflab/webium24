@@ -55,7 +55,7 @@ Topics of interest include, but are not limited to:
 + Carmelo Antonio Ardito - Università LUM "Giuseppe Degennaro", Italy
 + Elvira Brattico - Aarhus University, Denmark
 + Giuseppe D’Aniello - Università of Salerno, Italy
-+ Pietro Pinoli - Pietro Pinoli - Politecnico di Milano, Italy
++ Pietro Pinoli - Politecnico di Milano, Italy
 
 ## IMPORTANT DATES <a name="ID"></a>
 
