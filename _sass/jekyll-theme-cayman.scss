@@ -9,12 +9,20 @@
   }
 }
 
+.heading-button-container {
+  display:flex;
+  flex-direction: row;
+  gap: 10px;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: center;
+}
+
 .button-container {
     display: flex;
 }
 
 .button {
-    margin-right: 10px;
     padding: 10px 20px;
     text-decoration: none;
     color: #fff;
@@ -22,6 +30,8 @@
     border: 1px solid #2161AD;
     border-radius: 5px;
     cursor: pointer;
+    display: inline-block;
+    white-space: nowrap;
 }
 
 .button_clicked {

@@ -1,14 +1,16 @@
 ---
 layout: default
 ---
-<div style='margin-left:170px;'>
+<div class="heading-button-container">
 <a href="#OBJ" class="button">Objectives</a>
 <a href="#TOP" class="button">Topics</a>
-<a href="#PC" class="button">Program Committee</a><br></div>
-<div style='margin-top:30px; margin-left:100px;'>
+<a href="#PC" class="button">Program Committee</a>
 <a href="#ID" class="button">Important Dates</a>
 <a href="#WO" class="button">Workshop Organization</a>
-<a href="#OR" class="button">Organizers</a></div>
+<a href="#OR" class="button">Organizers</a>
+</div>
+
+
 
 ## DESCRIPTION
 
@@ -55,7 +57,7 @@ Topics of interest include, but are not limited to:
 + Carmelo Antonio Ardito - Università LUM "Giuseppe Degennaro", Italy
 + Elvira Brattico - Aarhus University, Denmark
 + Giuseppe D’Aniello - Università of Salerno, Italy
-+ Pietro Pinoli - Politecnico di Milano, Italy
++ Pietro Pinoli - Pietro Pinoli - Politecnico di Milano, Italy
 
 ## IMPORTANT DATES <a name="ID"></a>
 
