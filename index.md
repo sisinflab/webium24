@@ -61,6 +61,7 @@ Topics of interest include, but are not limited to:
 + Hasan Ayaz -  Drexel University, Philadelphia, USA
 + Yehia Ibrahim -  University of Liverpool, UK
 + Yalin Zheng -  University of Liverpool and Liverpool Heart and Chest Hospital, UK
++ Daniele Malitesta - Centralesupelec, Université Paris-Paclay, Paris, France
 
 ## IMPORTANT DATES <a name="ID"></a>
 
