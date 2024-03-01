@@ -72,7 +72,7 @@ Topics of interest include, but are not limited to:
 + Workshop Papers Camera-ready Submission (TAPS system): May 16, 2024
 
 <div class="button-container">
-    <a href="https://easychair.org/" class="button">Submit a Paper</a>
+    <a href="#" class="button">Submission System available soon..</a>
 </div>
 
 ## WORKSHOP ORGANIZATION <a name="WO"></a>
