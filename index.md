@@ -59,6 +59,8 @@ Topics of interest include, but are not limited to:
 + Giuseppe D’Aniello - Università of Salerno, Italy
 + Pietro Pinoli - Politecnico di Milano, Italy
 + Hasan Ayaz -  Drexel University, Philadelphia, USA
++ Yehia Ibrahim -  University of Liverpool, UK
++ Yalin Zheng -  University of Liverpool and Liverpool Heart and Chest Hospital, UK
 
 ## IMPORTANT DATES <a name="ID"></a>
 
