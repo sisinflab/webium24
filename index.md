@@ -55,9 +55,9 @@ Topics of interest include, but are not limited to:
 ## PROGRAM COMMITTEE <a name="PC"></a>
 
 + Carmelo Antonio Ardito - Università LUM "Giuseppe Degennaro", Italy
-+ Elvira Brattico - Aarhus University, Denmark
 + Giuseppe D’Aniello - Università of Salerno, Italy
 + Pietro Pinoli - Politecnico di Milano, Italy
++ Elvira Brattico - Aarhus University, Denmark
 + Hasan Ayaz -  Drexel University, Philadelphia, USA
 + Yehia Ibrahim -  University of Liverpool, UK
 + Yalin Zheng -  University of Liverpool and Liverpool Heart and Chest Hospital, UK
