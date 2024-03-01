@@ -62,6 +62,8 @@ Topics of interest include, but are not limited to:
 + Yehia Ibrahim -  University of Liverpool, UK
 + Yalin Zheng -  University of Liverpool and Liverpool Heart and Chest Hospital, UK
 + Daniele Malitesta - Centralesupelec, Université Paris-Paclay, Paris, France
++ Tiago Falk, University of Quebec, Canada
+
 
 ## IMPORTANT DATES <a name="ID"></a>
 
