@@ -69,7 +69,7 @@ Topics of interest include, but are not limited to:
 
 + Workshop Paper Submission: April 24, 2024
 + Notification: May 8, 2024
-+ Workshop Papers Camera-ready Submission (TAPS system): May 16, 2024
++ Workshop Papers Camera-ready Submission: May 16, 2024
 
 <div class="button-container">
     <a href="#" class="button">Submission System available soon..</a>
