@@ -67,8 +67,6 @@ Topics of interest include, but are not limited to:
 
 ## IMPORTANT DATES <a name="ID"></a>
 
-+ 1st Call for Workshop Papers: February 28, 2024
-+ 2nd Call for Workshop Papers: April 13, 2024
 + Workshop Paper Submission: April 24, 2024
 + Notification: May 8, 2024
 + Workshop Papers Camera-ready Submission (TAPS system): May 16, 2024
