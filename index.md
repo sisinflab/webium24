@@ -72,12 +72,13 @@ Topics of interest include, but are not limited to:
 + May 8, 2024: notification to authors
 + May 16, 2024: camera-ready due 
 
-<div class="button-container">
-    <a href="https://forms.office.com/e/9HBkZMZzhZ?origin=lprLink" class="button">Submit Abstract and Title</a>
-</div><br>
-<div class="button-container">
-    <a href="https://cmt3.research.microsoft.com/WeBIUM-2024" class="button">Submit a paper</a>
+<div class="heading-button-container">
+<a href="Submit Abstract and Title" class="button">Submit Abstract and Title</a>
+<a href="https://cmt3.research.microsoft.com/WeBIUM-2024" class="button">Submit a paper</a>
 </div>
+
+
+
 
 ## WORKSHOP ORGANIZATION <a name="WO"></a>
 
