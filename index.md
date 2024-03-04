@@ -74,7 +74,7 @@ Topics of interest include, but are not limited to:
 
 <div class="button-container">
     <a href="https://forms.office.com/e/9HBkZMZzhZ?origin=lprLink" class="button">Submit Abstract and Title</a>
-</div>
+</div><br>
 <div class="button-container">
     <a href="https://cmt3.research.microsoft.com/WeBIUM-2024" class="button">Submit a paper</a>
 </div>
