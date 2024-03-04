@@ -67,9 +67,10 @@ Topics of interest include, but are not limited to:
 
 ## IMPORTANT DATES <a name="ID"></a>
 
-+ Workshop Paper Submission: April 24, 2024
-+ Notification: May 8, 2024
-+ Workshop Papers Camera-ready Submission: May 16, 2024
++ April 15, 2024: abstract and title submission (mandatory)
++ April 24, 2024: paper submission
++ May 8, 2024: notification to authors
++ May 16, 2024: camera-ready due 
 
 <div class="button-container">
     <a href="#" class="button">Submission System available soon..</a>
