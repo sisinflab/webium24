@@ -63,6 +63,7 @@ Topics of interest include, but are not limited to:
 + Yalin Zheng -  University of Liverpool and Liverpool Heart and Chest Hospital, UK
 + Daniele Malitesta - Centralesupelec, Université Paris-Paclay, Paris, France
 + Tiago Falk, University of Quebec, Canada
++ Andrea Pazienza, NTT DATA Italia SpA
 
 
 ## IMPORTANT DATES <a name="ID"></a>
