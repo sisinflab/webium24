@@ -52,6 +52,13 @@ Topics of interest include, but are not limited to:
 + Innovative methodologies for user studies in wearable technologies
 + Ethical considerations in conducting user studies exploring WDs and BCIs
 
+## CATEGORIES OF SUBMISSIONS: <a name="CAT"></a>
+
++ Long Research Papers: These are reserved for reports on mature original research results. The expected length of a long paper submission should be in the range of 8-13 pages of content, plus up to 3 pages for references. 
++ Short Research Papers: Authors may choose this category if they wish to report on smaller case studies or ongoing original research efforts. The expected length of a short paper submission should be in the range of 4-7 pages of content, plus up to 2 pages for references. 
++ Position Papers: These deal with novel unexplored research ideas or viewpoints which describe trends or fruitful starting points for future research and elicit discussion. The expected length of a position paper submission should be 2 pages of content, plus up to 2 pages for references. 
++ Demo Submissions – System Papers: Authors who wish to demonstrate their system may choose this category and provide a description of their system and demo. The expected length of a demo/system paper submission should be up to 5 pages of content, plus up to 2 pages for references. 
+
 ## PROGRAM COMMITTEE <a name="PC"></a>
 
 + Carmelo Antonio Ardito - Università LUM "Giuseppe Degennaro", Italy
