@@ -72,21 +72,21 @@ Topics of interest include, but are not limited to:
 + Daniele Malitesta - Centralesupelec, Université Paris-Paclay, Paris, France
 + Tiago Falk, University of Quebec, Canada
 + Andrea Pazienza, NTT DATA Italia SpA
-
++ Noemi Mauro, University of Torino	
++ Eelco Herder, Utrecht University
 
 ## IMPORTANT DATES <a name="ID"></a>
 
-+ April 15, 2024: abstract and title submission (mandatory)
-+ April 24, 2024: paper submission
++ <span>April 15, 2024: abstract and title submission (mandatory)</span>
++ <span>April 24,</span>May 3, 2024: paper submission
 + May 8, 2024: notification to authors
 + May 16, 2024: camera-ready due 
 
 <div class="heading-button-container">
-<a href="https://forms.office.com/e/9HBkZMZzhZ" class="button">Submit Abstract and Title</a>
-<a href="https://cmt3.research.microsoft.com/WeBIUM-2024" class="button">Submit a paper</a>
+<a href="https://easychair.org/conferences/?conf=umap24" class="button">Submit a paper</a>
 </div>
 
-
+During the submission process select “1st Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling”.
 
 
 ## WORKSHOP ORGANIZATION <a name="WO"></a>
