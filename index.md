@@ -77,8 +77,8 @@ Topics of interest include, but are not limited to:
 
 ## IMPORTANT DATES <a name="ID"></a>
 
-+ <span>April 15, 2024: abstract and title submission (mandatory)</span>
-+ <span>April 24,</span>May 3, 2024: paper submission
++ <del>April 15, 2024: abstract and title submission (mandatory)</del>
++ <del>April 24,</del>May 3, 2024: paper submission
 + May 8, 2024: notification to authors
 + May 16, 2024: camera-ready due 
 
