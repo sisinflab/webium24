@@ -78,7 +78,7 @@ Topics of interest include, but are not limited to:
 ## IMPORTANT DATES <a name="ID"></a>
 
 + <del>April 15, 2024: abstract and title submission (mandatory)</del>
-+ <del>April 24,</del>May 3, 2024: paper submission
++ <del>April 24,</del><b>May 3, 2024: paper submission</b>
 + May 8, 2024: notification to authors
 + May 16, 2024: camera-ready due 
 
@@ -86,7 +86,7 @@ Topics of interest include, but are not limited to:
 <a href="https://easychair.org/conferences/?conf=umap24" class="button">Submit a paper</a>
 </div>
 
-During the submission process select “1st Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling”.
+During the submission process select <b>“1st Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling”</b>.
 
 
 ## WORKSHOP ORGANIZATION <a name="WO"></a>
