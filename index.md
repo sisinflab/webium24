@@ -6,7 +6,7 @@ layout: default
 <a href="#TOP" class="button">Topics</a>
 <a href="#PC" class="button">Program Committee</a>
 <a href="#ID" class="button">Important Dates</a>
-<a href="#WO" class="button">Workshop Organization</a>
+<a href="#WO" class="button">Program</a>
 <a href="#OR" class="button">Organizers</a>
 </div>
 
@@ -89,7 +89,7 @@ Topics of interest include, but are not limited to:
 During the submission process select <b>“1st Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling”</b>.
 
 
-## WORKSHOP ORGANIZATION <a name="WO"></a>
+## PROGRAM <a name="WO"></a>
 
 The 1st Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling - WEBIUM24, will take place on Thursday, July 4, from 9.00 to 12.30.
 
