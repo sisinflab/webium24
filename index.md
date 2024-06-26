@@ -93,16 +93,16 @@ During the submission process select <b>“1st Workshop on Wearable Devices and 
 
 The 1st Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling - WEBIUM24, will take place on Thursday, July 4, from 9.00 to 12.30.
 
-+ <b>09.15-10.30:</b> Paper Presentation 1
++ <b>09.15-10.30: Paper Presentation 1</b>
 + <b>09.15-09.40:</b> A. Lombardi, S. Marzo, T. Di Noia, E. Di Sciascio and C. Ardito - "Exploring the Usability and Trustworthiness of AI-Driven User Interfaces for Neurological Diagnosis".
 + <b>09.40-10.05:</b> S. Mongardi and P. Pinoli - "Exploring Federated Learning for Emotion Recognition on Brain-Computer Interfaces".
 + <b>10.05-10:30:</b> T. Colafiglio, D. Lofù, P. Sorino, A. Lombardi, F. Narducci, F. Festa and T. Di Noia - "EmoSynth Real Time Emotion-Driven Sound Texture Synthesis via Brain-Computer Interface".
-+ <b>10.30-11.00:</b> Coffee Break
-+ <b>11.00-11.45:</b> Paper Presentation 2
++ <b>10.30-11.00: Coffee Break</b>
++ <b>11.00-11.45: Paper Presentation 2</b>
 + <b>11.00-11.25:</b> K. Kumar, Y. Chen, B. Hu and Y. Luo - "Assessing Human Visual Attention in Retail Human-Robot Interaction: A YOLOv8-Nano and Eye-Tracking Approach".
 + <b>11.25-11.50:</b> P. Sorino, G. M. Biancofiore, D. Lofù, T. Colafiglio, A. Lombardi, F. Narducci and T. Di Noia - "ARIEL: Brain-Computer Interfaces meet Large Language Models for Emotional Support Conversation".
-+ <b>11.50-12.20:</b> Panel discussion with the Authors of the accepted papers
-+ <b>12.20-12.30:</b> Closing Remarks
++ <b>11.50-12.20: Panel discussion with the Authors of the accepted papers</b>
++ <b>12.20-12.30: Closing Remarks</b>
 
 
 ## ORGANIZERS <a name="OR"></a>
